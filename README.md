@@ -112,12 +112,12 @@
 
     <h2>Album Art</h2>
 
-    <img class="img" src="images/t_s.jpg" height="145" width="190" alt="Taylor Swift Taylor Swift Album Cover" />
-    <img class="img" src="images/Fearless.jpg" height="145" width="190" alt="Taylor Swift Fearless Album Cover" />
-    <img class="img" src="images/Speak_Now.png" height="145" width="190" alt="Taylor Swift Speak Now Album Cover" />
-    <img class="img" src="images/1989.png" height="145" width="190" alt="Taylor Swift 1989 Album" />
-    <img class="img" src="images/Reputation.jpg" height="145" width="190" alt="Taylor Swift Reputation Album" />
-    <img class="img" src="images/Lover.jpg" height="145" width="190" alt="Taylor Swift Lover Album" />
+    <img class="img" src="t_s.jpg" height="145" width="190" alt="Taylor Swift Taylor Swift Album Cover" />
+    <img class="img" src="Fearless.jpg" height="145" width="190" alt="Taylor Swift Fearless Album Cover" />
+    <img class="img" src="Speak_Now.png" height="145" width="190" alt="Taylor Swift Speak Now Album Cover" />
+    <img class="img" src="1989.png" height="145" width="190" alt="Taylor Swift 1989 Album" />
+    <img class="img" src="Reputation.jpg" height="145" width="190" alt="Taylor Swift Reputation Album" />
+    <img class="img" src="Lover.jpg" height="145" width="190" alt="Taylor Swift Lover Album" />
 
     <br>
     <br>
