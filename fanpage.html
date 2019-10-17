@@ -21,7 +21,7 @@
     <nav>
       <h2>Navigation</h2>
       <ul>
-        <li><a href="Bio">Bio</a></li>
+        <li><a href="Bio.html">Bio</a></li>
         <li><a href="Members">Members</a></li>
         <li><a href="Favorite Song">Favorite Song</a></li>
       </ul>
